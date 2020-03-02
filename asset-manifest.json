@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Faith-Nchifor/test.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Faith-Nchifor/test.github.io/static/js/main.ce9a9bf1.chunk.js",
+    "main.js.map": "/Faith-Nchifor/test.github.io/static/js/main.ce9a9bf1.chunk.js.map",
+    "runtime-main.js": "/Faith-Nchifor/test.github.io/static/js/runtime-main.cb777dd6.js",
+    "runtime-main.js.map": "/Faith-Nchifor/test.github.io/static/js/runtime-main.cb777dd6.js.map",
+    "static/js/2.e1e040c7.chunk.js": "/Faith-Nchifor/test.github.io/static/js/2.e1e040c7.chunk.js",
+    "static/js/2.e1e040c7.chunk.js.map": "/Faith-Nchifor/test.github.io/static/js/2.e1e040c7.chunk.js.map",
+    "index.html": "/Faith-Nchifor/test.github.io/index.html",
+    "precache-manifest.2b1e495617e0f2fc67c5ecec96a10435.js": "/Faith-Nchifor/test.github.io/precache-manifest.2b1e495617e0f2fc67c5ecec96a10435.js",
+    "service-worker.js": "/Faith-Nchifor/test.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Faith-Nchifor/test.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e1e040c7.chunk.js.LICENSE": "/Faith-Nchifor/test.github.io/static/js/2.e1e040c7.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Faith-Nchifor/test.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb777dd6.js",
+    "static/js/2.e1e040c7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.ce9a9bf1.chunk.js"
+  ]
+}
